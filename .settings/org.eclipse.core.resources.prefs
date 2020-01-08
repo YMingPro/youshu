@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/com/youshu/admin/bean/BookBean.java=GBK
+encoding//src/com/youshu/admin/dao/AdminBookDao.java=GBK
+encoding//src/com/youshu/admin/dao/AdminEvaluateDao.java=GBK
+encoding//src/com/youshu/admin/dao/AdminOrderDao.java=gbk
+encoding//src/com/youshu/admin/dao/AdminSalesDao.java=GBK
+encoding//src/com/youshu/admin/dao/AdminUserDao.java=GBK
+encoding//src/com/youshu/admin/impl/AdminBookImpl.java=GBK
+encoding//src/com/youshu/admin/impl/AdminEvaluateImpl.java=GBK
+encoding//src/com/youshu/admin/impl/AdminOrderImpl.java=gbk
+encoding//src/com/youshu/admin/impl/AdminUserImpl.java=GBK
+encoding//src/com/youshu/common/db/ConnectionPool.java=GBK
+encoding//src/com/youshu/common/util/Tools.java=GBK
